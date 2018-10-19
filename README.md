@@ -1,4 +1,11 @@
-# UI Components
+![SendGrid Logo](https://uiux.s3.amazonaws.com/2016-logos/email-logo%402x.png)
+
+# SendGrid UI Components
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/sendgrid.svg?style=social&label=Follow)](https://twitter.com/sendgrid)
+[![GitHub contributors](https://img.shields.io/github/contributors/sendgrid/docs.svg)](https://github.com/sendgrid/ui-components/graphs/contributors)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./license)
+
 
 Re-useable React components based on the SendGrid's Style Guide.
 [Hosted StoryBook](https://sendgrid.github.io/ui-components)
