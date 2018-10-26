@@ -2437,9 +2437,9 @@ exports[`Storyshots CenterModal CenterModal with footer and header, no x 1`] = `
     className="center-modal has-padding is-visible"
     data-role="example"
   >
-    <h1>
+    <h2>
       Scorpion XING Zone 🦂
-    </h1>
+    </h2>
     <p>
       Please do not feed the scorpions. Doing so could result in scorpion wounds, fines of up to $2,500 and up to 5 years of community service.
     </p>
@@ -2492,9 +2492,9 @@ exports[`Storyshots CenterModal CenterModal with footer and header, no x, large 
     className="center-modal has-padding is-large is-visible"
     data-role="example"
   >
-    <h1>
+    <h2>
       Scorpion XING Zone 🦂
-    </h1>
+    </h2>
     <p>
       Please do not feed the scorpions. Doing so could result in scorpion wounds, fines of up to $2,500 and up to 5 years of community service.
     </p>
@@ -10377,7 +10377,7 @@ exports[`Storyshots Segment Term Segment term which cannot be edited 1`] = `
     Entry Criteria
   </p>
   <div
-    className="segment-term"
+    className="segment-term is-live"
     onClick={undefined}
   >
     <p>

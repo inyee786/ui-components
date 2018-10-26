@@ -59,7 +59,7 @@ import Badge from '@sendgrid/ui-components/badge';
 
 ### Getting Styles to Work
 
-UI-Components uses a mix of module styles and global styles to insert style guide. To use module styles for each individual component, you'll need to update your webpack config to parse module styles from files with the naming convention ".module.scss".
+UI-Components uses a mix of module styles and global styles to insert style guide. To use module styles for each individual component, you'll need to update your webpack config to parse module styles from files with the naming convention ```.module.scss```.
 
 ```js
 config.module.rules.push({
